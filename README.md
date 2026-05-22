@@ -58,25 +58,6 @@
 
   <br><br>
 
-  <h2>📊 GitHub Analytics</h2>
-
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=nanda070&theme=radical&row=1&margin-w=15&no-frame=true&no-bg=true&title=Commits,Repositories,Stars" alt="Trophies" />
-    </a>
-  </p>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nanda070&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&rank_icon=github&v=5" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanda070&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&v=5" alt="Top Langs" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanda070&theme=radical&hide_border=true&background=0D1117&v=5" alt="Streak" />
-  </p>
-
-  <br><br>
-
   <h2>📈 Contribution Activity</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanda070/nanda070/output/github-contribution-grid-snake-dark.svg">
