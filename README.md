@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=250&amp;section=header&amp;text=Hello,%20I'm%20Nanda!&amp;fontSize=70&amp;fontAlignY=35&amp;desc=Software%20Engineer%20%7C%20Backend%20%26%20Infrastructure&amp;descAlignY=55&amp;descAlign=50&amp;v=1" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello,%20I'm%20Nanda!&fontSize=70&fontAlignY=35&desc=Backend%20Developer%20and%20Infrastructure%20Engineer&descAlignY=55&descAlign=50&v=2" alt="Header" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=00F0FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Architecting+scalable+backend+systems;Building+robust+automations;Passionate+about+clean+code+and+DevOps&amp;v=1" alt="Typing SVG" />
