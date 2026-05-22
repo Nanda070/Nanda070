@@ -58,7 +58,7 @@
   <h2>📊 GitHub Analytics</h2>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nanda070&amp;theme=radical&amp;row=1&amp;column=7&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nanda070&theme=radical&row=1&margin-w=15&no-frame=true&no-bg=true&title=Multilanguage,Commits,Repositories,Stars" alt="Trophies" />
   </a>
   
   <br><br>
@@ -66,15 +66,15 @@
   <table align="center" style="border: none;">
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=nanda070&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;rank_icon=github&amp;v=1" alt="Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=nanda070&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&rank_icon=github" alt="Stats" />
       </td>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanda070&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;v=1" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanda070&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" />
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2" style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanda070&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;v=1" alt="Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanda070&theme=radical&hide_border=true&background=0D1117" alt="Streak" />
       </td>
     </tr>
   </table>
