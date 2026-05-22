@@ -37,9 +37,7 @@
   </table>
 
   <br><br>
-
   <h2>🛠️ Technical Arsenal</h2>
-
   <h4>Languages &amp; Core</h4>
   <p>
     <img src="https://skillicons.dev/icons?i=python,rust,js,ts,cpp&amp;theme=dark" alt="Languages" />
