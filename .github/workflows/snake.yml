@@ -2,7 +2,6 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    # Запуск раз в сутки
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
@@ -11,6 +10,8 @@ on:
 
 jobs:
   generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
