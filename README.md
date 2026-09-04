@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://discord.gg/cheterin">
-    <img src="https://img.shields.io/badge/Discord-nanda070-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-nandak070-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://t.me/nanda070">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
