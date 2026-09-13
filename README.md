@@ -65,11 +65,6 @@
 
   <h2>📊 GitHub Analytics</h2>
 
-  <p>
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=nanda070&show_icons=true&theme=transparent&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&bg_color=00000000" alt="GitHub Stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanda070&layout=compact&theme=transparent&hide_border=true&title_color=00F0FF&text_color=FFFFFF&bg_color=00000000" alt="Top Languages" />
-  </p>
-
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nanda070&theme=transparent&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=FFFFFF&dates=777777" alt="GitHub Streak" />
 
   <h2>📈 Contribution Activity</h2>
