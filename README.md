@@ -1,68 +1,125 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello,%20I'm%20Nanda!&fontSize=70&fontAlignY=35&desc=Backend%20Developer%20and%20Infrastructure%20Engineer&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:007CF0,100:00F0FF&height=250&section=header&text=Hello,%20I'm%20Nanda!&fontSize=70&fontAlignY=35&desc=Backend%20Developer%20%7C%20Infrastructure%20Engineer&descAlignY=56&descAlign=50&fontColor=FFFFFF" alt="Header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Architecting+scalable+backend+systems;Building+robust+automations;Passionate+about+clean+code+and+DevOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&lines=Architecting+scalable+backend+systems;Building+robust+automation+and+infrastructure;Developing+tools+that+solve+real+problems;Focused+on+performance%2C+reliability+and+clean+architecture" alt="Typing SVG" />
   </a>
 
-  <br><br>
+<br><br>
 
   <a href="mailto:turkapahf@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://discord.gg/cheterin">
-    <img src="https://img.shields.io/badge/Discord-nandak070-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://t.me/nanda070">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 
-  <br><br><br>
+<br><br><br>
 
   <h2>🚀 About Me</h2>
+
   <p align="center">
-    I am a software engineer focused on developing high-performance services, system utilities, and automated infrastructure.<br>
-    Experienced in managing Linux environments and building complex application architectures.
+    Software engineer focused on building high-performance backend services,
+    developer tools, system utilities and automated infrastructure.<br>
+    I work across application architecture, Linux environments, APIs and distributed systems.
   </p>
-  
-  <table align="center" style="border: none; background-color: transparent;">
+
+  <br>
+
+  <table align="center">
     <tr>
-      <td align="left" style="border: none;">
-        🌱 <b>Currently exploring:</b> Advanced System Design & Low-level optimizations<br>
-        💼 <b>Looking to collaborate on:</b> Open-source tools & scalable platforms<br>
-        💬 <b>Ask me about:</b> API design, server management, and backend infrastructure<br>
-        📫 <b>Reach out via:</b> Telegram, Discord, or Email
+      <td align="left">
+        🌱 <b>Currently exploring</b><br>
+        Advanced system design, low-level optimization and distributed architecture
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        💼 <b>Open to collaboration</b><br>
+        Open-source infrastructure, developer tools and scalable platforms
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        💬 <b>Ask me about</b><br>
+        Backend architecture, APIs, Linux, automation, servers and infrastructure
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        📫 <b>Contact</b><br>
+        Telegram, Discord or Email
       </td>
     </tr>
   </table>
 
-  <br><br>
+<br><br>
 
   <h2>🛠️ Technical Arsenal</h2>
 
-  <h4>Languages & Core</h4>
+  <h4>Languages & Development</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,rust,js,ts,cpp,html,c#,dart,go&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=python,rust,js,ts,cpp,cs,dart,go,java,html,lua&theme=dark" alt="Languages & Development" />
   </p>
 
-  <h4>Backend & Frameworks</h4>
+  <h4>Backend, Runtimes & Frameworks</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,discordjs,express,postgres,sqlite,redis&theme=dark" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=nodejs,discordjs,express,postgres,sqlite,redis,pnpm,gradle,bun,deno,electron,tauri&theme=dark" alt="Backend, Runtimes & Frameworks" />
   </p>
 
-  <h4>DevOps & Infrastructure</h4>
+  <h4>Game Development, Testing & Automation</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,docker,nginx,git,githubactions&theme=dark" alt="DevOps" />
+    <img src="https://skillicons.dev/icons?i=unreal,godot,selenium,playwright&theme=dark" alt="Game Development, Testing & Automation" />
   </p>
 
-  <br><br>
+  <h4>DevOps, Infrastructure & Tools</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,bash,docker,nginx,aws,git,github,githubactions,figma,blender&theme=dark" alt="DevOps, Infrastructure & Tools" />
+  </p>
+
+<br><br>
+
+  <h2>📊 GitHub Analytics</h2>
+
+  <p>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=nanda070&show_icons=true&theme=transparent&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&bg_color=00000000" alt="GitHub Stats" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanda070&layout=compact&theme=transparent&hide_border=true&title_color=00F0FF&text_color=FFFFFF&bg_color=00000000" alt="Top Languages" />
+  </p>
+
+  <br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanda070&theme=transparent&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=FFFFFF&dates=777777" alt="GitHub Streak" />
+
+<br><br>
 
   <h2>📈 Contribution Activity</h2>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanda070/nanda070/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanda070/nanda070/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nanda070/nanda070/output/github-contribution-grid-snake.svg">
   </picture>
+
+<br><br>
+
+  <h2>⚡ Engineering Focus</h2>
+
+  <p>
+    <code>Backend Architecture</code>
+    <code>Infrastructure</code>
+    <code>Automation</code>
+    <code>Developer Tools</code>
+    <code>System Engineering</code>
+    <code>Performance</code>
+    <code>Reliability</code>
+  </p>
+
+  <br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:007CF0,100:00F0FF&height=120&section=footer" alt="Footer" />
 
 </div>
