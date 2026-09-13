@@ -43,7 +43,7 @@
 
   <h4>Languages & Core</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,rust,js,ts,cpp&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=python,rust,js,ts,cpp,html,c#,dart,go&theme=dark" alt="Languages" />
   </p>
 
   <h4>Backend & Frameworks</h4>
