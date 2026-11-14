@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nanda070/Nanda070/main/assets/dark.svg?v=1">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nanda070/Nanda070/main/assets/light.svg?v=1">
-  <img width="100%" alt="Adnan Huseynli (Nanda), backend developer" src="https://raw.githubusercontent.com/Nanda070/Nanda070/main/assets/light.svg?v=1">
+  <img width="100%" alt="Adnan (Nanda), backend developer" src="https://raw.githubusercontent.com/Nanda070/Nanda070/main/assets/light.svg?v=1">
 </picture>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ```console
 $ whoami
-adnan huseynli · nanda · backend developer · budapest, hungary
+adnan · nanda · backend developer · budapest, hungary
 
 $ cat now.txt
 studying   computer science at ELTE (2026 – 2029)
