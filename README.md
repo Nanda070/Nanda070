@@ -17,7 +17,7 @@
 ### 👋 About me
 
 - 🛠️ **Backend developer** based in **Budapest, Hungary**: services, databases and the platforms around them
-- 🎯 Creator and development lead of **[Val Qauym](https://valqauym.kz)**: bot, site, admin panel and economy of a VALORANT community in Kazakhstan
+- 🎯 Creator and development lead of **[Val Qauym](https://valqauym.kz)**: the bot that runs [discord.gg/valqauym](https://discord.gg/valqauym), the largest VALORANT community in Kazakhstan
 - 📈 Former core developer of **Juniper** (2019–2025): 1.29M servers served, p95 query time cut from 1.4 s to 18 ms
 - 🤖 Founder of **Cheterin**, an open-source multi-server bot platform with a web dashboard
 - 🎓 Computer Science at **ELTE**; open to part-time backend / platform roles in Hungary, the EU or remote
@@ -26,7 +26,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Val Qauym**](https://valqauym.kz) | Bot (~33 modules), site and admin panel for a ~945-member VALORANT server: 5v5 customs with seasonal Elo, economy, tournaments, browser game events | Python · aiohttp · React · TypeScript |
+| [**Val Qauym**](https://valqauym.kz) | The bot that runs the whole [discord.gg/valqauym](https://discord.gg/valqauym) server, the largest VALORANT community in Kazakhstan (~945 members): roles, economy, moderation, 700+ auto customs with seasonal Elo, events, plus the site and admin panel | Python · aiohttp · React · TypeScript |
 | [**Juniper**](https://juniper.bot) | Multipurpose Discord bot: **1,291,495** servers, **198M+** commands; p95 **1.4 s → 18 ms**, peak DB CPU **85% → 15%** | Python · discord.py · PostgreSQL |
 | [**Cheterin**](https://github.com/Nanda070/Cheterin-Bot) | Public multi-server bot with a web dashboard, on **518** servers; Apache-2.0 | Python · aiohttp · React (Vite) |
 | **Discord Quests × VALORANT** | Partner work on Discord Quests: designed the code structure of the Orbs connection | — |
